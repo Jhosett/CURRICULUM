@@ -3,5 +3,6 @@ img{
     height: 200px;
 }
 table{
+    border: 6;
     margin: 0 auto;
 }
